@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PicassoExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="simple">Basic Use</string>
+    <string name="with_placeholder">Using Placeholder and Error Fallback</string>
+    <string name="with_resize">Using Resize and Transform</string>
+    <string name="with_circular_transform" >Circular Image </string>
+</resources>
